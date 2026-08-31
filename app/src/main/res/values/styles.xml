@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.FoodDelivery" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">#ff6b35</item>
+        <item name="colorPrimaryDark">#e55a2b</item>
+        <item name="colorAccent">#00b894</item>
+        <item name="android:windowBackground">#f0f2f5</item>
+    </style>
+</resources>
